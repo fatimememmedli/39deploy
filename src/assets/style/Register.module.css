@@ -1,0 +1,22 @@
+.container {
+  width: 40%;
+  margin: 100px auto;
+  padding: 70px 50px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  display: flex;
+  flex-direction: column;
+  border-radius: 10px;
+  text-align: center;
+  background: rgb(127, 192, 255);
+  background: linear-gradient(
+    7deg,
+    rgba(127, 192, 255, 0.7428221288515406) 56%,
+    rgba(25, 118, 210, 0.70640756302521) 100%
+  );
+  gap: 13px;
+}
+.text {
+  color: white;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}

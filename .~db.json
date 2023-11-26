@@ -1,0 +1,139 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "Hamida",
+      "password": "Hamida",
+      "email": "user@gmail.com",
+      "requests": [],
+      "friends": [],
+      "block": []
+    },
+    {
+      "id": 2,
+      "username": "Asmar",
+      "password": "Asmar",
+      "email": "user@gmail.com",
+      "requests": [],
+      "friends": [],
+      "block": []
+    },
+    {
+      "id": 3,
+      "username": "Shahana",
+      "password": "Shahana",
+      "email": "Female",
+      "requests": [],
+      "friends": [],
+      "block": []
+    },
+    {
+      "id": 4,
+      "username": "Fatma",
+      "password": "Fatma",
+      "email": "Female",
+      "requests": [],
+      "friends": [],
+      "block": []
+    },
+    {
+      "id": 5,
+      "username": "Sevinc",
+      "password": "Sevinc",
+      "email": "Female",
+      "requests": [],
+      "friends": [],
+      "block": []
+    },
+    {
+      "id": 6,
+      "username": "Fatime",
+      "password": "Fatime",
+      "email": "Female",
+      "requests": [],
+      "friends": [],
+      "block": []
+    },
+    {
+      "id": 7,
+      "username": "Ismayil",
+      "password": "Ismayil",
+      "email": "Female",
+      "requests": [],
+      "friends": [],
+      "block": []
+    },
+    {
+      "id": 8,
+      "username": "Said",
+      "password": "Said",
+      "email": "Female",
+      "requests": [],
+      "friends": [],
+      "block": []
+    },
+    {
+      "id": 9,
+      "username": "Nahid",
+      "password": "Nahid",
+      "email": "Female",
+      "requests": [],
+      "friends": [],
+      "block": []
+    },
+    {
+      "id": 10,
+      "username": "Aysun",
+      "password": "Aysun",
+      "email": "Female",
+      "requests": [],
+      "friends": [],
+      "block": []
+    },
+    {
+      "id": 11,
+      "username": "Sabina",
+      "password": "Sabina",
+      "email": "Female",
+      "requests": [],
+      "friends": [],
+      "block": []
+    },
+    {
+      "id": 12,
+      "username": "Nicat",
+      "password": "Nicat",
+      "email": "Female",
+      "requests": [],
+      "friends": [],
+      "block": []
+    },
+    {
+      "id": 13,
+      "username": "Ayan",
+      "password": "Ayan",
+      "email": "Female",
+      "requests": [],
+      "friends": [],
+      "block": []
+    },
+    {
+      "id": 14,
+      "username": "Laman",
+      "password": "Laman",
+      "email": "Female",
+      "requests": [],
+      "friends": [],
+      "block": []
+    },
+    {
+      "id": 15,
+      "username": "Samaya",
+      "password": "Samaya",
+      "email": "Female",
+      "requests": [],
+      "friends": [],
+      "block": []
+    }
+  ]
+}

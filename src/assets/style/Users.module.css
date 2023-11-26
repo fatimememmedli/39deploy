@@ -1,0 +1,25 @@
+.container {
+  width: 70%;
+  padding: 30px 0;
+  text-align: center;
+  border-radius: 10px;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  display: flex;
+  flex-direction: column;
+  margin: 100px auto;
+  align-items: center;
+  justify-content: center;
+}
+.text {
+  color: #1976d2;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  margin-bottom: 40px;
+}
+.cardContainer {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 18px;
+  padding: 10px 22px;
+  justify-content: center;
+}
